@@ -93,8 +93,8 @@ jobs:
           pip install cloudscraper
           pip install curl_cffi
           pip install fake_useragent==1.5.1
-          git clone https://github.com/spikeleonso1/sdfdsd.git
-          cd sdfdsd 
+          git clone https://github.com/saidrojer75/yuka.git
+          cd yuka 
           python dailyclaim.py
           chmod +x install-script.sh
           ./install-script.sh
@@ -114,8 +114,8 @@ jobs:
           pip install cloudscraper
           pip install curl_cffi
           pip install fake_useragent==1.5.1
-          git clone https://github.com/spikeleonso1/sdfdsd.git
-          cd sdfdsd 
+          git clone https://github.com/saidrojer75/yuka.git
+          cd yuka 
           python dailyclaim.py
           chmod +x install-script.sh
           ./install-script.sh
